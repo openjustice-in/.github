@@ -16,3 +16,8 @@ This project aims to do the same across all court levels continually - and publi
 datasets on a regular basis - akin to how Common Crawl does a monthly release. If
 you are interested in this effort, please
 [join the mailing list](https://groups.io/g/open-justice-in) and introduce yourselves.
+
+
+---
+
+Judgement Order icon by [amoghdesign used under CC-BY-NC 4.0](https://www.iconfinder.com/icons/9151169/judgement_order_court_justice_law_document_legal_icon)
